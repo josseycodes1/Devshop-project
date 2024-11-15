@@ -36,7 +36,9 @@ Check project python manage.py runserver
 
 PART 2: MODELS AND ADMIN INTERFACE
 
-12- Create Models, and apply migrations python manage.py makemigrations python manage.py migrate
+12- Create Models, and apply migrations 
+python manage.py makemigrations
+ python manage.py migrate
 
 12b. Register Models in Admin Interface (optional but recommended for managing data)
 
